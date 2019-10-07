@@ -1,2 +1,2 @@
-# learn-blockchain
-Blockchain implementation using Java and Maven
+# Simple Blockchain Implementation
+This is simple implementation of Blockchain technology works under the hood using Maven and Java.
